@@ -14,3 +14,4 @@ Perché Argon2id è adatto alla GPU:
 - [Cuda Doc](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 - [Argon 2 Paper](https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf)
 - [Blake2b](https://www.blake2.net/)
+- [CUDA Blake2b GitHub](https://github.com/Xordrak/cuda_blake2b)
